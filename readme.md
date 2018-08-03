@@ -1,31 +1,31 @@
 ##  A collection of Python scripts
 
 ### 1. remove-all-pyc.md
-remove all *.pyc* files from a git repo
+Remove all *.pyc* files from a git repo
 ### 2. find-all-links.py
-get all links from a webpage
+Get all links from a webpage
 ### 3. simple-twitter-manager.py
-accessing the Twitter API, example functions
+Accessing the Twitter API, example functions
 ### 4. rename-with-slice.py
-rename group of files, within a single directory, using slice
+Rename group of files, within a single directory, using slice
 ### 5. load-json-without-dupes.py
-load JSON, convert to dict, raise error if there is a duplicate key
+Load JSON, convert to dict, raise error if there is a duplicate key
 ### 6. execution-time.py
-class used for timing execution of code
+Class used for timing execution of code
 ### 7. benchmark-permissions-loading-django.py
-benchmark loading of permissions in Django
+Benchmark loading of permissions in Django
 ### 8. basic-email-web-crawler.py
-web crawler for grabbing emails from a website
+Web crawler for grabbing emails from a website
 ### 9. basic-link-web-crawler.py
-web crawler for grabbing links from a website
+Web crawler for grabbing links from a website
 ### 10. find-files-recursively.py
-recursively grab files from a directory
+Recursively grab files from a directory
 ### 11. optimize-images-with-wand.py
-recursively grab images from a directory, then optimize them for the web
+Recursively grab images from a directory, then optimize them for the web
 ### 12. csv-split.py
 Splits a CSV file into multiple files based on command line arguments.
 ### 13. random-name-generator.py
-random name generator
+Random name generator
 ### 14. html-to-markdown.sh
 Convert all html files in a single directory to markdown
 ### 15. check-my-environment.py
