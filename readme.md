@@ -72,3 +72,7 @@ Clone all repositories from a public user or organization on Github. Usage `pyth
 Download YouTube Videos
 ### 36. youtube-search-and-download
 Calculate sentiment score from the comments of a Youtube video
+### 37. text-editor.py
+A simple Python based text editor
+### 38. top-words-tfidf.py
+Find important words in text documents using the TF-IDF search algorithm to score frequency of appearance
